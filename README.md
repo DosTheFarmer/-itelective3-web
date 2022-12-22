@@ -1,4 +1,4 @@
-# Local Goverment Units of Bukidnon
+# Local Goverment Unit of Bukidnon
 <dl>
   <dt>Definition list</dt>
   <dd>Is something people use sometimes.</dd>
