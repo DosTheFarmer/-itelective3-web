@@ -1,9 +1,2 @@
-# Local Goverment Unit of Bukidnon
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-![My Image](LGU Logo.jpg)
+# Local Goverment Unit of Bukidnon<hr>
+![Alt text](/path/to/LGU Logo.jpg)
