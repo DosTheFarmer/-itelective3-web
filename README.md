@@ -10,7 +10,7 @@
 ---
 ## System
 __Order System__
-> In the order system, we have two people who can access it: the Customer or the Customer Service representative. The Customer can access themself as the main customer, their inventory, credit, and the status of their order, but they can't authorize returns. Only the Customer Service representative can access and allow returns of the Customers. The order system also has inventory, credit, and order status subsystems.
+> In the order system, we have two people who can access it: the Customer or the Customer Service representative. The Customer can access themself as the main customer, their inventory, credit, and the status of their order, but they can't authorize returns. Only the Customer Service representative can access and authorize returns or refunds of the Customers. The order system also has inventory, credit, and order status subsystems.
 
 **Subsystems**
 * Inventory system
