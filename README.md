@@ -1,5 +1,4 @@
-# Local Goverment Unit of Bukidnon
-![Alt text](https://github.com/DosTheFarmer/-itelective3-web/blob/main/LGU%20Logo.jpg)
+# Local Goverment Unit of Bukidnon <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc-zJRKilFyczie_mduMjT0bvVazlHqNBRX2faU2yR7g&s" width = "300"/>
 
 ## Frameworks
 1. Laravel <img src = "https://png.pngitem.com/pimgs/s/578-5785080_laravel-6-logo-png-transparent-png.png" width = "200"/>
