@@ -2,7 +2,7 @@
 ![Alt text](https://github.com/DosTheFarmer/-itelective3-web/blob/main/LGU%20Logo.jpg)
 
 ## Frameworks
-1. Laravel ![Alt text width = "100"](https://github.com/DosTheFarmer/-itelective3-web/blob/main/Laravel.png)
+1. Laravel <img src = "https://png.pngitem.com/pimgs/s/578-5785080_laravel-6-logo-png-transparent-png.png" width = "200/>
 2. Breeze ![Alt text width = "100"](https://github.com/DosTheFarmer/-itelective3-web/blob/main/Breeze.png)
 3. Vue ![Alt text width = "100"](https://github.com/DosTheFarmer/-itelective3-web/blob/main/Vue.jpg)
 4. MySql ![Alt text width = "100"](https://github.com/DosTheFarmer/-itelective3-web/blob/main/MySqL.png)
